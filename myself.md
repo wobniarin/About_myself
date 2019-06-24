@@ -1,3 +1,13 @@
-Ingrid Munné Collado 
+# My profile 
 
-I live in Barcelona and I am 28
+Name: Ingrid Munné Collado 
+
+# Hobbies 
+
+- Dancing 
+- Cycling 
+- Reading 
+
+# Favorite food 
+
+- Tortell de massapà 
